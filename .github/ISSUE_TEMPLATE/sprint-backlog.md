@@ -13,8 +13,8 @@ assignees: ''
 
 ## 할 일
 
-- [ ] item 1
-- [ ] item 2
+- [ ] Item 1
+- [ ] Item 2
 
 ## 참조
 
